@@ -1,2 +1,4 @@
 # Skybreez-Weather-App
-For Demo, Check [Skybreez](https://skybreez.msync.my.id)
+For Demo, Click [Skybreez](https://skybreez.msync.my.id)
+Remember to Allow Location in your browser.
+Have a nice day 🚀
